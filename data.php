@@ -3,6 +3,7 @@ $data = [
   1 => [
     'href' => 'https://forum.selfhtml.org/self/2018/mar/27/footer-immer-ganz-unten/1717543#m17175430',
     'heading' => 'SVG skalieren',
+    'image' => 'images/door01.jpg',
     'author' => 'Gunnar Bittersmann am 13.11.2019',
     'teaser' => 'Ich hab mal ein Beispiel gebaut, in welchem dasselbe Symbol zweimal in unterschiedlichen Größen verwendet wird.',
   ],

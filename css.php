@@ -117,3 +117,6 @@ li > :not(.open):hover, li > :not(.open):focus {
 li > .coming_soon:hover {
   color: inherit;
 }
+li img {
+  max-width: 350px;
+}

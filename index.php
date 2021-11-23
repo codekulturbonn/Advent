@@ -13,6 +13,7 @@ for ($k = 1; $k <= sizeof($data); $k++) :
     $listitems[] = '
       <a href="'.$data[$k]['href'].'">
         <h2>'.$data[$k]['heading'].'</h2>
+        <img src='.$data[$k]['image'].'>
         <p>'.$data[$k]['author'].'</p>
         <p>'.$data[$k]['teaser'].'</p>
       </a>';
