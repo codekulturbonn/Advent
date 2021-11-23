@@ -21,6 +21,7 @@ h1 {
   margin: 1rem auto;
   padding: 5rem 0 2rem;
   text-align: center;
+  color: red;
 }
 h1 a {
   text-decoration: none;

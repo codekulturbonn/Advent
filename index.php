@@ -1,7 +1,7 @@
 <?php
 require ('data.php');
 
-$year = 2019;
+$year = 2020;
 $title = 'Adventskalender '.$year;
 
 $now = time();
